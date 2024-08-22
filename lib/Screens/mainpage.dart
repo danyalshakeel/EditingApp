@@ -2,7 +2,6 @@ import 'dart:io';
 import 'package:editingapp/Screens/photoediting.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:permission_handler/permission_handler.dart';
 
 class MainPage extends StatelessWidget {
   MainPage({super.key});

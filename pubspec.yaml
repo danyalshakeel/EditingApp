@@ -40,6 +40,7 @@ dependencies:
   image_cropper: ^8.0.2
   permission_handler: ^11.3.1
   path: ^1.9.0
+  flutter_colorpicker: ^1.1.0
 
 dev_dependencies:
   flutter_test:
